@@ -2,6 +2,8 @@
 
 This project focuses on analyzing data from the CERN ATLAS experiment using the `atlasopenmagic` Python package.
 
+Python-based analysis workflows for exploring and processing CERN Open Data. Includes data cleaning, feature extraction, visualization, and example pipelines for particle‑physics event analysis using ATLAS Open Data.
+
 ## Project Structure
 
 - `data/`: Placeholder for any local data files or cached metadata.
