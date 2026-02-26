@@ -1,0 +1,8 @@
+atlasopenmagic
+pandas
+numpy
+matplotlib
+uproot
+awkward
+jupyterlab
+scipy
